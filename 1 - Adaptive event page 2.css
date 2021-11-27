@@ -1,0 +1,28 @@
+* {
+    font-size: 16px;
+}
+
+h1{
+    display: inline-block;
+    padding: 20px 0;
+    width: 424px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#transfer-block{
+    display: block;
+    padding: 0px 0px 0px 105px;
+}
+
+#transfer-block ul:last-child{
+    padding-left: 55px;
+}
+
+ul li:first-child {
+    font-size: 14px;
+}
+
+#clearfix2::after { 
+    content: ""; 
+}
